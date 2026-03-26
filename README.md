@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/hero_header.png" alt="Hero Header do Projeto IA que Orienta" width="100%">
+</p>
+
 # IA-que-Orienta---Criando-meu-Roteiro-de-Carreira
 
 # 🤖 IA que Orienta: Mentor de Carreira em Governança de IA
